@@ -15,8 +15,6 @@
 9.了解linux常用命令，并在linux环境下安装gitlab、nexus、jenkins、docker等并部署应用
 10.有丰富的OA协同办公系统研发经验，了解市面上最流行的蓝凌、致远、用友、钉钉等协同OA系统，以及开源的OA系统框架
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
 ### 个人感悟
 
 知识改变命运，知识是你未来人生的底蕴，任何时候的学习都不是为时已晚，所以，不管任何时候都不要放弃学习！
