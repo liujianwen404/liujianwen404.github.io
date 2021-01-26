@@ -3,7 +3,7 @@
 你觉得你的想法前无古人，只是因为你看的书还不够多。
 
 ### 技能描述
-
+```markdown
 1.Java基础扎实，掌握JVM原理，多线程，并发编程，网络原理;
 2.熟悉spring、springmvc、spring data jpa、hibernate、mybatis等主流框架设计;
 3.熟悉springboot，springcloud，springcloud alibaba，dubbo等微服务框架的场景设计，比如服务注册与发现，服务降级、限流、熔断，服务网关路由设计，服务安全认证架构；
@@ -14,7 +14,7 @@
 8.熟悉HTML,CSS,JavaScript,jQuery,vue 等前端技术与Bootstrap,layui等常用UI框架；
 9.了解linux常用命令，并在linux环境下安装gitlab、nexus、jenkins、docker等并部署应用
 10.有丰富的OA协同办公系统研发经验，了解市面上最流行的蓝凌、致远、用友、钉钉等协同OA系统，以及开源的OA系统框架
-
+```
 ### 个人感悟
 
 知识改变命运，知识是你未来人生的底蕴，任何时候的学习都不是为时已晚，所以，不管任何时候都不要放弃学习！
